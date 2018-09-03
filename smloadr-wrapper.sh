@@ -4,7 +4,7 @@
 # ./smloadr-wrapper SMLOADR_BINARY URLS_LIST QUALITY
 # Example: ./smloadr-wrapper SMLoadr links.txt FLAC
 # Supported values for quality: MP3_128/MP3_320/FLAC
-# Less than 320 isnt even an option, forget about it, asshole.
+# Less than 128 isnt even an option, forget about it, asshole.
 
 # COLOR VARIABLES
 green='\033[0;32m'
